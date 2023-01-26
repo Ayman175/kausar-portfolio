@@ -14,10 +14,20 @@ section {
     display: flex;
 }
 
+.down {
+    padding-bottom: 20px;
+}
+
 .half-width {
     width: 50%;
 }
 
 .half-width img {
     width: 80%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(green, tomato);
+    padding: 10px 30px;
 }
